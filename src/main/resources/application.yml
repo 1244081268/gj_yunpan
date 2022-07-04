@@ -1,0 +1,10 @@
+spring:
+  mvc:
+    view:
+      suffix: .jsp
+      prefix: /WEB-INF/jsp/
+  datasource:
+    url: jdbc:mysql://47.102.194.33:3308/yunpan?useSSL=false
+    username: root
+    password: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
