@@ -13,5 +13,6 @@ public class MpConfig {
         System.out.println("ht fix");
         System.out.println("ht fix");
         System.out.println("ht fix");
+        System.out.println("pull test");
     }
 }
