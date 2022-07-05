@@ -9,5 +9,6 @@ public class MpConfig {
         System.out.println(532);
         System.out.println("master commit");
         System.out.println("ht fix");
+        System.out.println("ht fix");
     }
 }
